@@ -30,9 +30,7 @@ The `computer_audit.py` script allows auditing and filing of computer informatio
 - Logging to a File: Write the collected computer information to a specified file for future reference or auditing purposes.
 - User Interaction: Prompt users to input information for audit purposes and interactively record it to the log file.
 
-
-### computer_audit.pyUsage
-Arguments
+### Usage
 The script takes the arguments provided in the compaud.py class list.
 
 #### Example Usage:
@@ -43,6 +41,17 @@ Replace desktop-01, xxx.xxx.xxx.xxx, and other arguments with the appropriate va
 
 The script writes the provided computer information to a file named (computer_audit.txt) located in the current working directory.
 
+### Result
+- [example](https://github.com/saifnuker/Compaud/blob/main/computer_audit.txt).
+```bash
+DragonPC
+10.10.1.1
+office
+Win10
+21h2
+————————————————
+
+```
 
 # search_compinfo.py
 
