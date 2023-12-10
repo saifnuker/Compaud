@@ -1,4 +1,4 @@
-# search_compinfo.py
+# search_compinfo.py <~ Use to search for information
 
 def retrieve_info(file_path, key, value):
     try:
