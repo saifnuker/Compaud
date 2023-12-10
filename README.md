@@ -86,4 +86,5 @@ If no entry is found for the given category and value, it will display a "No ent
 - [Make a ReadMe](https://www.makeareadme.com/).
 - [Python docs](https://docs.python.org/3/library/argparse.html?highlight=create%20module).
 
-
+## License
+- [GNU](https://github.com/saifnuker/Compaud/blob/main/LICENSE).
